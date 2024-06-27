@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://negociomarcado.com.br/$1"
+ }
+  ]
+}
